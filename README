@@ -1,10 +1,10 @@
-Email::IsFree version 0.01
+Email::IsFree version 0.02
 ==========================
 
 This module detects whether an e-mail address belongs to a
 free e-mail provider such as hotmail.com or yahoo.com.  It
 currently contains over 6000 domains.  Additions and
-corrections are welcome, please send to tjmather@tjmather.com
+corrections are welcome, please send to tjmather@maxmind.com
 
 INSTALLATION
 
@@ -17,7 +17,7 @@ To install this module type the following:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2002 TJ Mather
+Copyright (C) 2003 MaxMind LLC
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself. 
